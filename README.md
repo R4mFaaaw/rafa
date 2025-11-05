@@ -8,7 +8,7 @@
 ###
 
 <br clear="both">
-<img align="right" height="200" src="/rafa/assets/download.jpeg"/>
+<img align="right" height="200" src="/rafa/assets/download.jpeg" alt="rafaroni.jpg"/>
 
 ###
 
