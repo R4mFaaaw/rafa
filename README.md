@@ -2,20 +2,13 @@
 
 ###
 
-<h4 align="left">I am a Backend Software Engineer specializing in web applications. I recently graduated from Vocation School SMKN 4 Bandung, where I majored in Software Engineering (Rekayasa Perangkat Lunak). Currently, I am pursuing further studies in the same field at Universitas Pendidikan Indonesia. My work often keeps me up late, leading to some interesting sleep schedules 😅. Right now, I'm working at a startup company, where I'm honing my skills and contributing to exciting projects. Nice to meet you all!</h4>
+<h4 align="left">I am a Frontend Development Engineer specializing in web applications. I recently graduated from SMAN 8 Garut. From now i study at Universitas Pendidikan Indonesia.</h4>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rikanaap&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=rikanaap&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
 
 ###
 
 <br clear="both">
-
-<img align="right" height="200" src="https://github.com/rikanaap/rikanaap/blob/main/assets/potrait.jpg?raw=true"  />
+<img align="right" height="200" src="/rafa/assets/download.jpeg"/>
 
 ###
 
